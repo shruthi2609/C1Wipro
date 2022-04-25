@@ -1,0 +1,23 @@
+.c1{
+    background-color: aqua;
+}
+.c2{
+    background-color: blueviolet;
+}
+.c3{
+    background-color: chartreuse;
+}
+.row{
+    display: flex;
+   /* flex-direction:row-reverse;*/
+   flex-direction: row;
+   width:100%
+}
+.column{
+    display: flex;
+    /* flex-direction:row-reverse;*/
+    flex-direction: column;
+    flex-basis:100%;
+   
+}
+

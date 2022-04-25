@@ -1,0 +1,39 @@
+.mainheading{
+    background-color: aqua;
+}
+.sample{
+  color:red
+}
+.subheading,.subheading2,h3{
+    color:darkblue
+}
+/*#m1{
+  background-color: black;
+   
+}
+#sample1{
+  color:white
+}
+#s1{
+   color:red
+}*/
+*{
+    background-color: burlywood;
+}
+h2{
+    border-style: dashed;
+    border-color: red;
+    border-width: 5px;
+  /*  padding:15px;
+    padding-left: 40px;*/
+    padding:15px 20px 30px 40px;
+    margin-left:10px;
+    margin-right: 10px;
+}
+img{
+    border-style: dotted;
+    width: 20%;
+    height:20%;
+    border-radius: 50%;
+}
+
