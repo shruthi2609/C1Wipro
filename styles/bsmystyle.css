@@ -1,3 +1,24 @@
 .btn-primary{
     background-color: black;
 }
+div{
+    background-color: violet;
+    height:30vh;
+}
+.clr1{
+    background-color: aqua;
+}
+.clr2{
+    background-color: chocolate;
+}
+.clr3{
+    background-color: bisque;
+}
+/* custom width .col-1{
+    flex: 0 0 auto;
+  width: 20%;
+}*/
+.img-wid{
+    width:100%;
+    height:100%
+}
