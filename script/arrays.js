@@ -43,7 +43,7 @@ const res=studentNames.find(
 )
 console.log(res)
 const res1=studentNames.filter(
-    function(item){
+    (item)=>{
         return item==="john"
     }
 )
