@@ -59,9 +59,33 @@ const second=(fname,age)=>{
 
 
 console.log(clone("john"))
-console.log(second("pete",30))*/
+console.log(second("pete",30))
 let a=+prompt("enter a value")
 console.log(a,typeof a)
+
+const parentFunction=(func)=>{
+func("john","admin","5hrs")
+}
+const callbackFun=(fname,role,loginTime)=>{
+console.log(`Dear ${fname} ${role} : your logon time is ${loginTime} `)
+}
+parentFunction(callbackFun)
+const parentFunction=(func)=>{
+   const evaluate=func("john","admin","5hrs")
+   if(evaluate==="underworking"){
+       console.log("please logon for 9 hours")
+   }
+   else{
+       console.log("keep up the good work")
+   }
+}
+const callbackFun=(fname,role,loginTime)=>{
+    return "underworking"
+}
+
+parentFunction((fname,role,loginTime)=>{
+    return "underworking"
+})*/
 
 
 

@@ -35,13 +35,13 @@ return item+"is the name and "+index+"is the index"
 })
 
 
-console.log(res)*/
+console.log(res)
 const res=studentNames.find(
     function(item){
         return item==="john"
     }
 )
-console.log(res)
+console.log(res)*/
 const res1=studentNames.filter(
     (item)=>{
         return item==="john"
