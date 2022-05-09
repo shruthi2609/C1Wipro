@@ -1,4 +1,4 @@
-/*function basicDetails(){
+function basicDetails(){
     let fname="john"
     function extraInfo(c){
         let cgpa=c
@@ -9,8 +9,8 @@
     
 }
 const outside=basicDetails()
-outside(9.5)*/
-let studentOne={
+console.dir(outside)
+/*let studentOne={
     fname:"john",
     cgpa:9.0,
     display:function(){
@@ -35,7 +35,7 @@ let cgpabound=studentOne.displaycgpa.bind(studentTwo)
 let welcomebound=studentThree.welcome.bind(studentTwo)
 boundedobj()
 welcomebound()
-cgpabound()
+cgpabound()*/
 
 
 

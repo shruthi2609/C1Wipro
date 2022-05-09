@@ -41,13 +41,23 @@ const res=studentNames.find(
         return item==="john"
     }
 )
-console.log(res)*/
+console.log(res)
 const res1=studentNames.filter(
     (item)=>{
         return item==="john"
     }
 )
 console.log(res1)
+
+const arr=[2,5,8,9]
+/*arr.push(10)
+arr.push(25)
+arr.pop()
+arr.shift()
+arr.unshift(34)
+console.log(arr)*/
+
+
 
 
 
