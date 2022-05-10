@@ -1,0 +1,34 @@
+{
+  "employeeDetails": [
+    {
+      "id": 1,
+      "empName": "Joe",
+      "empEmail": "Joe@gmail.com",
+      "empRole": "Trainee"
+    },
+    {
+      "id": 2,
+      "empName": "John",
+      "empEmail": "John@gmail.com",
+      "empRole": "Trainer"
+    },
+    {
+      "id": 3,
+      "empName": "Peter",
+      "empEmail": "peter@gmail.com",
+      "empRole": "HR"
+    },
+    {
+      "id": 4,
+      "empName": "Henry",
+      "empEmail": "Henry@gmail.com",
+      "empRole": "Trainee"
+    },
+    {
+      "id": 5,
+      "empName": "Jenny",
+      "empEmail": "Jenny@gmail.com",
+      "empRole": "Trainee"
+    }
+  ]
+}
