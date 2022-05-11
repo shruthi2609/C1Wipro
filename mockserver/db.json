@@ -29,6 +29,15 @@
       "empName": "Jenny",
       "empEmail": "Jenny@gmail.com",
       "empRole": "Trainee"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7,
+      "fname": "shruthi",
+      "email": "shruthi@gmail.com",
+      "role": "trainer"
     }
   ]
 }
