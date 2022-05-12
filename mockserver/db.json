@@ -1,18 +1,6 @@
 {
   "employeeDetails": [
     {
-      "id": 1,
-      "empName": "Joe",
-      "empEmail": "Joe@gmail.com",
-      "empRole": "Trainee"
-    },
-    {
-      "id": 2,
-      "empName": "John",
-      "empEmail": "John@gmail.com",
-      "empRole": "Trainer"
-    },
-    {
       "id": 3,
       "empName": "Peter",
       "empEmail": "peter@gmail.com",
@@ -38,6 +26,12 @@
       "fname": "shruthi",
       "email": "shruthi@gmail.com",
       "role": "trainer"
+    },
+    {
+      "id": 10,
+      "fname": "xyz",
+      "email": "xyz@gmail.com",
+      "role": "HR"
     }
   ]
 }
